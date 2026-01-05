@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Special♡Spell",
+  "base_artist": "きゅるりんってしてみて",
+  "createdAt": "2026-01-05T04:42:13.218613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Special♡Spell",
+      "artist": "きゅるりんってしてみて",
+      "has_synced": true,
+      "path": "select/01_Special♡Spell_きゅるりんってしてみて.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Special♡Spell",
+      "artist": "きゅるりんってしてみて",
+      "has_synced": false,
+      "path": "select/pl_01_Special♡Spell_きゅるりんってしてみて.txt"
+    }
+  ]
+}
